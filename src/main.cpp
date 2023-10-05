@@ -10,8 +10,8 @@ const char* password = "";
 // Konfigurasi MQTT
 const char* mqtt_server = "mqtt-dashboard.com";
 const int mqtt_port = 1883;
-const char* mqtt_username = "DaffaDandi";
-const char* mqtt_password = "Daffabulet8927";
+const char* mqtt_username = "mqtt_username";
+const char* mqtt_password = "mqtt_password";
 
 const int loadPin = 4;  // ST_CP (RCLK)
 const int clockEnablePin = 2;  // SH_CP (SRCLK)
